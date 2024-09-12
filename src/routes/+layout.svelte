@@ -11,7 +11,7 @@
 		<nav>
 			<ul class="space-y-2">
 				<li><a href="/" class="hover:text-purple-800 hover:underline">Prestataires</a></li>
-				<li><a href="/add" class="hover:text-purple-800 hover:underline">Nouveau</a></li>
+				<li><a href="/new" class="hover:text-purple-800 hover:underline">Nouveau</a></li>
 			</ul>
 		</nav>
 	</header>
